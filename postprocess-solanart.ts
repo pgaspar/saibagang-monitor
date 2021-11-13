@@ -31,7 +31,6 @@ type ParsedData = {
   price: number;
   moonRank?: string;
   solanartURL: string;
-  rarityURL: string;
 };
 
 // Step 1: Read the downloaded_filename JSON
