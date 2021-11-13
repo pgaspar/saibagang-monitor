@@ -1,9 +1,10 @@
 require "json"
+require "open-uri"
 
 data = {}
 
-File.open(File.join(File.dirname(__FILE__), "./moonrank-info.json")) do |info_file|
-  data = JSON.parse info_file.read
+URI.open("https://moonrank.app/mints/saibagang") do |moonrank_data|
+  data = JSON.parse moonrank_data.read
 end
 
 processed_data = data["mints"].map do |m|
