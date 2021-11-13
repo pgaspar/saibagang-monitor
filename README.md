@@ -1,7 +1,7 @@
-# Gloom Monitor
+# Saiba Gang Monitor
 
-Monitors Gloom Punk Club at MagicEden and Solanart marketplaces and updates data every 30min.
+Monitors Saiba Gang at MagicEden and Solanart marketplaces and updates data every 30min.
 
-Check `gloom-picks` for the best picks under 0.5, 1, 1.5 and 2 SOL!
+Check the `picks` CSVs for the best picks under 0.5, 1, 1.5 and 2 SOL!
 
-Browse all data at https://flatgithub.com/braposo/gloom-monitor and use "Data File" picker to select files
+Browse all data at https://flatgithub.com/pgaspar/saibagang-monitor and use "Data File" picker to select files.
