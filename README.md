@@ -1,6 +1,6 @@
 # Saiba Gang Monitor
 
-Monitors Saiba Gang at MagicEden and Solanart marketplaces and updates data every 30min.
+Monitors Saiba Gang at MagicEden and Solanart marketplaces and updates data every 20min.
 
 Check the `picks` CSVs for the best picks under 0.5, 1, 1.5 and 2 SOL!
 
