@@ -62,7 +62,6 @@ id,price,moonRank,meURL
 1532,0.888,3211,https://magiceden.io/item-details/GaaDQsCTt2vXFchqJjyVkyHfFHg14LoA5XN2N5nHa3ND
 1554,1.22,3435,https://magiceden.io/item-details/9L2LNzVbsKf8ejPW3ZBgAJPQAfLk3bf6VfbsJjJ7QyD5
 1585,1,1529,https://magiceden.io/item-details/46DVNgh1FD5HnFDqJBW6fTp9V4YUTNz91HWGshs6kqdg
-1647,1.25,1691,https://magiceden.io/item-details/2mV7BtHBmxSiqAvSfnYkwAAeCxPUPQwhUmSaGxUX4dz9
 1652,1,3499,https://magiceden.io/item-details/F78KRbuzHqD9vLhref72Rt5kSmkxWEcsqHCR6DVJjYaP
 1655,1.25,1671,https://magiceden.io/item-details/F9TgkEfeELjUdWgFC2sdoezZUVd9b8Mim2WZc5Wk5dFM
 1657,3,1876,https://magiceden.io/item-details/8WhoCEPrzHBDmcvfQqG3VRmLJHCy19YC9TCmVxHSv7uE
@@ -99,7 +98,7 @@ id,price,moonRank,meURL
 2367,7.5,994,https://magiceden.io/item-details/4PK4ZSRz3yZgh2TxgyhT6sWW6xL4PxErShZbVpDiG4us
 2370,0.6,3864,https://magiceden.io/item-details/5KvwecTfTohWWQESeMEn81JC7dmHnqPRsZrPnNZseKVp
 2383,1.5,1768,https://magiceden.io/item-details/51FpDYL6RveufWxfN27a7sgfAwey15GkoW9nejm23JrQ
-2457,1.4,1362,https://magiceden.io/item-details/6nTnqJ92nMcL4aQs7o9D1umEtmugR8zR7W2KxKuU7cVE
+2457,1.1,1362,https://magiceden.io/item-details/6nTnqJ92nMcL4aQs7o9D1umEtmugR8zR7W2KxKuU7cVE
 2463,0.9,3287,https://magiceden.io/item-details/B5bTXnRVwwJWhs5VC842kVmUVm7hczXRfqEU4bpmiLmg
 2467,150,299,https://magiceden.io/item-details/8JNHdh1rLadqSatGdVGxuXCPNRDi9A5FtpNezs85N4aY
 2494,150,384,https://magiceden.io/item-details/GT9Py75S9Dcxyx6ULWqKcbAx1eGNw2f2sCt7pugsg5uD
@@ -145,6 +144,7 @@ id,price,moonRank,meURL
 3335,0.82,2256,https://magiceden.io/item-details/BoZo5njYaZHzq5uHTWanXmVyxkVE2q5K24Q3dvouEH8g
 3343,1.2,2330,https://magiceden.io/item-details/A8WFXuLtTAtCysrZZTk42pKZQQR7x9cBTYrvLsz2BVyN
 3346,2,1606,https://magiceden.io/item-details/CqvNWFfib73cDwYE94V65MgPRgBEkLDpUy4tt1eFXfGe
+3354,5.5,3838,https://magiceden.io/item-details/HuFUPRGejCVNkEVSCfYvcsrdv62Hg9wrf5RcAZKnAQpp
 3360,3.5,3320,https://magiceden.io/item-details/FNrVxSqFCMw7oZGxwtwjqV5Ln72aXnmbGiqrW2mEW81V
 3381,1,3185,https://magiceden.io/item-details/BLKp5BHyob9Lm7TNmNNNaPeeTXg1fb5RuDzTwMLvH3Dp
 3384,8,1590,https://magiceden.io/item-details/DNa38CUyoJJR586dpd6XGET3mMGg4XRbBZttwBHTHjeF
@@ -197,13 +197,13 @@ id,price,moonRank,meURL
 3906,100,818,https://magiceden.io/item-details/4RxSr7a1XjkiSpftswshaC3EJaHzTFu7DwFsD1iu1kez
 3910,1.88,3396,https://magiceden.io/item-details/HM2dzMXGWfJ1b3DQhrKm9x9mxe8t8Rrvr9SHy2NhakWB
 3912,4.2,781,https://magiceden.io/item-details/H7iMm9xgtN5uEUf47tAmkmspuPj6JhLsndW8TbzcPjJs
-3914,2,1999,https://magiceden.io/item-details/8z3zFfmgWtX7UVwq8B9bMP3JFTU4dxhz7Y7X9aCq8Xt
+3914,1,1999,https://magiceden.io/item-details/8z3zFfmgWtX7UVwq8B9bMP3JFTU4dxhz7Y7X9aCq8Xt
 3915,3.1,3526,https://magiceden.io/item-details/DqYDFpAPCXoDa8boq5FSEuRQzBzT6Af4gw9eZ4uUJsZL
 3932,2,2520,https://magiceden.io/item-details/EYpmb7WXGTqH5CrS6V7xSsJYo9jtByqibqivALANzahz
 3943,0.8,3985,https://magiceden.io/item-details/HbfGWFZycnuaY5YfNUJoGn5HMaCiqDk3MR5GxEL1Nfi2
 3976,0.9,3732,https://magiceden.io/item-details/Hv6xxmZ2LJWNB7oqyj6cUpn7xCqkRR48SATs5EKN7VoY
 3981,1.5,2670,https://magiceden.io/item-details/HyqSyWR1xE9AXysHe8Qh9gjr4gBxH399NJDLGUfShDWm
-3983,2,1827,https://magiceden.io/item-details/9CqetqE1LyvCjzi2xbKovbbTosBtpwijCsLbT6piwVh8
+3983,1,1827,https://magiceden.io/item-details/9CqetqE1LyvCjzi2xbKovbbTosBtpwijCsLbT6piwVh8
 4028,250,149,https://magiceden.io/item-details/A7DYnRjSC6B29vzc2pocJCDt9NY2WDrNqqvErDhYvYwA
 4044,4.5,1912,https://magiceden.io/item-details/DMpUYaSkDBPf2nxG5triaNpEbQDnUy6YABTyeJUjj6YJ
 4046,1,3858,https://magiceden.io/item-details/EYqj7NoJi2sgqvjbdiZHJZANwKPB8NHo3ZpRWnk6PRR
