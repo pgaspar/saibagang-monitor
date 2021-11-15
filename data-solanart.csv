@@ -32,6 +32,7 @@ id,price,moonRank,solanartURL
 427,7.5,226,https://solanart.io/search/?token=Hj3zf8D69TfqiZ3gqteb51E5A3WBfJriAzrteagmtnxP
 432,5,2831,https://solanart.io/search/?token=82KzSsuj71uc79PHDVcyPQbHDnoxhwzjD5nfeQUW8N7p
 437,20,495,https://solanart.io/search/?token=2g8EgBwqNmFnnqxbhKZQANMAtxN7HmHzmxkcUszABxPC
+447,2.25,610,https://solanart.io/search/?token=75eFnRYpw8NaT9oThw1jGGYREXp9CLXZLMEirxNjjjMq
 452,5,1712,https://solanart.io/search/?token=8L59GBXVFnHHSRvgDxD9x9WcYYTfSDviGjLB5p6SQ6KV
 459,55,28,https://solanart.io/search/?token=CeSRa3KQNcBTqGBMARMS8wMqxcvktVb16A2XYXAPB2sh
 463,1,3690,https://solanart.io/search/?token=7DcPF4ePRj9vNGPKWXdpgBEMmRvwywri6ygvuwNwA94d
@@ -183,7 +184,6 @@ id,price,moonRank,solanartURL
 1806,3,4015,https://solanart.io/search/?token=A77kvBeqfQ3egzbvm4xNQQyyQ1so82Q77QRS2stxL32j
 1839,0.89,2151,https://solanart.io/search/?token=FP1KQSqHV5Pq96QyWzyDjfzitwSn8RSipnuC2JEau1gi
 1844,2,2056,https://solanart.io/search/?token=3mNCWSXUEB9gp3cUyRsd46u9YqDLqDfu3SYP9p95vwK3
-1845,0.6,1442,https://solanart.io/search/?token=8ccQPysLe9vpfjyvXhhd8MppAKnCWdY7smP15pn9n1Ze
 1860,1,3714,https://solanart.io/search/?token=AbhgPpgwRPDb1EZLTdwjdwmn5hK2vLnTEuhFmNZfRKQG
 1863,1,1605,https://solanart.io/search/?token=9U6WigmCEZYHQ1Ev1yefUXkUin5AoQVfQTiHvkYs5tun
 1868,0.55,4017,https://solanart.io/search/?token=2CVYC5b7YB82Y38u8tqKafmGGPrAxnQyDJbrnuVi7Pa4
@@ -366,7 +366,6 @@ id,price,moonRank,solanartURL
 3284,0.6,3338,https://solanart.io/search/?token=41qWY5jXsrCWrX75vdhm8ZjHFUb7bgWEj76CfjZpxWyt
 3305,0.75,3130,https://solanart.io/search/?token=4kPga4E5WjdTQ9T7Wgs1XbjWsYvxHHGxcwYfnNhSn8uX
 3308,3.5,2204,https://solanart.io/search/?token=B9yQeh6edyJQev8BKh784i4W2uiBXdLUkspKAkUWQccU
-3314,0.7,4053,https://solanart.io/search/?token=2RZWjxBVxYx1aYrgzkg6RAeg6AeazUccSPYAYAfQ9zpW
 3332,99.900002,917,https://solanart.io/search/?token=F8ajujD59oD7uWYuBY7H5WJsfADc52UcDZu1uPjLGoZD
 3333,0.79,2776,https://solanart.io/search/?token=4jxYuhXn4X6jwjyzqkKsjWx7GUL8cvZNBfS9S8zQTbHr
 3345,2.5,3887,https://solanart.io/search/?token=5FW8noneU3RHtYQqnikMGuAkND2DZn1iygUZ136TMnM5
