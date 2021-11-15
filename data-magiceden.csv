@@ -57,7 +57,6 @@ id,price,moonRank,meURL
 1031,3,3102,https://magiceden.io/item-details/A2xWRfLJ3itf6Hp2kJo2zQpKQNGkwVGbotXagXyymxZX
 1044,1.1,2031,https://magiceden.io/item-details/Aw33tW3o6f6dTXbEAhJuBgc4maAhv5XtbT2r3en17U2b
 1083,0.95,1701,https://magiceden.io/item-details/FLQeBUM3k9ECgCgW4qrGwNbHwGUB6qEDYGCM3WJLLB6Q
-1092,1,1136,https://magiceden.io/item-details/AJkVvBcra17gn6r3szfo3gBrG4pivFb3FYXDnUBHSwGj
 1096,1.8,1649,https://magiceden.io/item-details/E9QoQ5s1Xa6pMHqrog1MYHX3P1Dy4cPgz75cBH7HNSQy
 1114,0.8,4136,https://magiceden.io/item-details/AeqjaUX9DpXLSmX5F6nChqsk7Fe3fhaZn4csmyCwNpGQ
 1117,0.9,4222,https://magiceden.io/item-details/13UUkwc3VbfkTYJWK826QrV1vsUJEQWkB3iNnwFaYLkv
@@ -70,7 +69,6 @@ id,price,moonRank,meURL
 1332,1.2,1372,https://magiceden.io/item-details/CWMTUn4YryxZvR6Ky83CV2fYpfCNTJ8N5giadrz2DqNe
 1347,0.55,4370,https://magiceden.io/item-details/HtiAkQUUbhqFhE1tiG1vcMKHQ8m3XNCSf9PoMxAGxVeG
 1381,3.5,2408,https://magiceden.io/item-details/J7UkKgPq8YB5A8Eq88tbJ21FCMmqPFEbUFc6yuf5GLZT
-1396,0.88,3843,https://magiceden.io/item-details/2dLZpWiAvQv2PmaN1HVrgmymVXn1q85XwgPQKX6JTXzj
 1438,1.1,2313,https://magiceden.io/item-details/8ZQvb7MFzMJoDpsTHAoFurEPwM8Yzrsk6UaskwPiaEBX
 1441,9.75,296,https://magiceden.io/item-details/7LcyWtrtmdg6pcFsAPtyZyQQH3hKESfmmVxtRrbo64RS
 1447,0.88,3661,https://magiceden.io/item-details/6P8yV8xKPaU3qEMRM1nVXfi6b3uobWscatpFzEYo1h9F
@@ -86,9 +84,12 @@ id,price,moonRank,meURL
 1605,1.25,2499,https://magiceden.io/item-details/BSdk3rSbghgB1YGmwS2w3gTs6j2Zg6b922a9SfotVz1p
 1637,0.94,3536,https://magiceden.io/item-details/A5wPvTxfVP1H5f5jNcAndeorsCTsaBKKrP4EyNgJnq6F
 1639,1,1997,https://magiceden.io/item-details/7AtW9ns7AgjxxsX7ttiSPQYSTrUj8zdyyThbQ6CbKVYe
+1652,1,3499,https://magiceden.io/item-details/F78KRbuzHqD9vLhref72Rt5kSmkxWEcsqHCR6DVJjYaP
+1655,1.44444,1671,https://magiceden.io/item-details/F9TgkEfeELjUdWgFC2sdoezZUVd9b8Mim2WZc5Wk5dFM
 1657,3,1876,https://magiceden.io/item-details/8WhoCEPrzHBDmcvfQqG3VRmLJHCy19YC9TCmVxHSv7uE
 1658,1.7,3768,https://magiceden.io/item-details/5PVMa7C3fnBbXotF3Um2MDWPfkUM37atyz4ZvAtTSbrR
 1659,2.2,1034,https://magiceden.io/item-details/8vAPRT84DynwatxktP5rKcUmRQ5MXjbGxJYqoyBxLFn1
+1661,2.111111,806,https://magiceden.io/item-details/2h87azU2HRiTsZkveufkWfqVNCyntYCePet4Q7we5zyh
 1663,1.4,3475,https://magiceden.io/item-details/9K7eMea7m8Gd8yJeCxxgVMcJBx6Yx5agNHhmbATDvViF
 1665,2.5555555,472,https://magiceden.io/item-details/HUZqufAZd3JQyVqUXXMi21TkJm5GsffELFQtYqrLNL8d
 1682,1.2,3487,https://magiceden.io/item-details/GxfAoj6qPd9JjPnjTGzyxpA5paDzsj58toscZyDAratU
@@ -130,7 +131,7 @@ id,price,moonRank,meURL
 2457,1,1362,https://magiceden.io/item-details/6nTnqJ92nMcL4aQs7o9D1umEtmugR8zR7W2KxKuU7cVE
 2458,0.9,2686,https://magiceden.io/item-details/BoHLKk6HDjNQ329cjtHmxa8zBJ1arcR14bHAXHJGuFUG
 2461,0.9,3809,https://magiceden.io/item-details/BtUM84xdaj6Upk1SL2YeEyfESRTwHbbHFJhXeDnZVix7
-2463,0.65,3287,https://magiceden.io/item-details/B5bTXnRVwwJWhs5VC842kVmUVm7hczXRfqEU4bpmiLmg
+2463,0.55,3287,https://magiceden.io/item-details/B5bTXnRVwwJWhs5VC842kVmUVm7hczXRfqEU4bpmiLmg
 2468,1,2795,https://magiceden.io/item-details/5QHinFNw51tBLyjZqxKQiR65wEsEdEs4vBP8mRNBeAYQ
 2469,0.66,3033,https://magiceden.io/item-details/MLDXZHgXzSirPpEgZV1Nars9urNvRoydmmGAqVEBitk
 2486,1.9,2223,https://magiceden.io/item-details/53ZAaKL1rynVMAMPytVCNkjMRXtbsah8L2zjDTehokZE
@@ -229,7 +230,7 @@ id,price,moonRank,meURL
 3443,0.95,3125,https://magiceden.io/item-details/7qeX9gB9Y51U278URmhNAf6J9aCSv2PScE2aARxcn1f5
 3448,2,3707,https://magiceden.io/item-details/CszR83uhy54Fm3c76mpVaz4qw1LYNWdGz3CWbNPeBxXw
 3463,1.65,2309,https://magiceden.io/item-details/DsKFVL4uSJhf6o2WzQCiFTh54FR59D4tEH2CHrbop1s4
-3464,12,32,https://magiceden.io/item-details/4pnYTYCwMqEkiFzb2VN3ttiM939hPNmrDmWwbFwZyoe7
+3464,5,32,https://magiceden.io/item-details/4pnYTYCwMqEkiFzb2VN3ttiM939hPNmrDmWwbFwZyoe7
 3468,0.8,4405,https://magiceden.io/item-details/9BwSX4FyZTk7eYbeEYKg2ReNtY1HF9oJnXKeL6HAJ6aF
 3470,3.5,676,https://magiceden.io/item-details/GzZ6Npu49aEudxo28EdqXJQsS1EhbkgUtHKT8TazidJ9
 3472,0.8,2837,https://magiceden.io/item-details/7tLis15KF47QH2AEZR7uH1KM3sJsRUti7gCrohxQRfcZ
