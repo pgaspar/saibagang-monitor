@@ -87,7 +87,6 @@ id,price,moonRank,solanartURL
 974,2,3716,https://solanart.io/search/?token=14Bh9ppnUhkiBBmuW5uxuJDioQeD9y5kpcAkCnUFmD2W
 977,0.9,4114,https://solanart.io/search/?token=3RngjPNmRY4ujKqQxnqT4EZUKrHoNxjWhXjTGof5BQQT
 985,0.75,4342,https://solanart.io/search/?token=F3DH4JmbAJ1Xqr3K7ktbMZpJ7Kmp7M3285uBAU7K9QiY
-986,0.9999,3651,https://solanart.io/search/?token=C6Y8f3AZXtezFKqN2t6z3PpXmwhFNPhuxos8VSv3QKNa
 1015,1.3,3266,https://solanart.io/search/?token=9SSx3AJGAn9KRcLVKsWM9prsbLhSNd82NaqV5QomV1Rx
 1037,3,2367,https://solanart.io/search/?token=EoicNxhLiTZvbRJUp5T55kH78e5hE5nvYJuya7tsgSF9
 1048,7.5,133,https://solanart.io/search/?token=9gfFiwxDd9A5pc8Ju9XbjLiJugExVXshBixPSnUDwbdd
@@ -117,8 +116,8 @@ id,price,moonRank,solanartURL
 1296,1,3344,https://solanart.io/search/?token=HaGXCpHFT4qqtHTe257KXGXa86AeDSH9p65Xk6wdFhZD
 1313,4,447,https://solanart.io/search/?token=4cZ4y3yATPmjJjszC17BVX6KRqENVTzs2jGb1MSeNVAQ
 1314,1,2521,https://solanart.io/search/?token=Aou1GroQ4rsCffQMvSHxLc6g7CCYvLp8cTBBSerpYRPA
-1329,1,1893,https://solanart.io/search/?token=HH3eCBrXjjcnBWYd5fcqQ8g3nDsDZYReSFpJafhXaftX
 1376,0.72,2674,https://solanart.io/search/?token=8oKDxcErD6gnoAC5rzGAVUndDW4WkQqt8eBZpBwkAu97
+1377,2,805,https://solanart.io/search/?token=9dsTJ2mdYtx1nmRBc1deshJwL8MdMtKoFevoL2FL3DYu
 1390,0.7,4369,https://solanart.io/search/?token=78i51sDZvXHCxniTHje8Z6rUy7uYn1WE9e5yRKKihXNv
 1394,0.865,1388,https://solanart.io/search/?token=6erQG9CqAK1TQda7UDYj9zRTKDsemc9muwdBQd1A1trK
 1399,0.48,2392,https://solanart.io/search/?token=EUv127GPN9PYzaz72Y95otTbX32zjdPmZ6xKP6id5FpC
@@ -181,7 +180,7 @@ id,price,moonRank,solanartURL
 1727,3.5,3668,https://solanart.io/search/?token=Eq565LECyw9CVpYLjbkpnpGNNie15eMjgck8dPJhr3d8
 1732,1.15,973,https://solanart.io/search/?token=CbzCsbSGij475nZeTeXA5eaLJEQzGJQCsas9rEcctduF
 1738,2,211,https://solanart.io/search/?token=8tJ6JSBwKowAYNmriEU9N7pVEjYtRBKTPxeW5ZpZ6iQ2
-1740,6,1566,https://solanart.io/search/?token=4CJWFehDqX4sajSfauK9vCMV61xMXnPVduwVhsPG5BbE
+1740,2,1566,https://solanart.io/search/?token=4CJWFehDqX4sajSfauK9vCMV61xMXnPVduwVhsPG5BbE
 1752,4.5,949,https://solanart.io/search/?token=7jqqPQCHb5kgmahT5qP4pd8L43HuNnzKxCXhgo7Kcvet
 1763,0.88,1464,https://solanart.io/search/?token=7qeofx3fKEF6JbaX7AiTGrszfdqgUhL8UasueyT527ng
 1769,13,413,https://solanart.io/search/?token=DEaPJQq5GLEqd33SXAVMfG1kT4NimTd21piH9DDabM53
@@ -365,6 +364,7 @@ id,price,moonRank,solanartURL
 3098,1.9,2632,https://solanart.io/search/?token=BrKhYkfhizfbnkx4H6c7wQMaNGBsMhoLNi8DgNvd4N7e
 3119,1.5,3506,https://solanart.io/search/?token=J3VRbL5L3Yo1MA9vXimqMhvegMbupKSwCZCNe4nzU76o
 3122,0.88,3299,https://solanart.io/search/?token=JDSfTykkKSMK8dc6a2Zwy7SSsp98qDFEKkEWYzY3Vw8e
+3142,2,850,https://solanart.io/search/?token=2xPP8tyx2HVZYEu73wE7e1zPPAwfYnCjgxx5fWf9f6pZ
 3151,2.5,3349,https://solanart.io/search/?token=BmKz7w8P1Fu8mLgr4B98mwBKh7vpDUAhvxbK7CfXELqT
 3152,2.5,3663,https://solanart.io/search/?token=Ayu78PRNA7st2hXRJ1v3AEECSkSAC7me6AxLyhzzmihp
 3155,10,4365,https://solanart.io/search/?token=4qy5Hmgi6aag6JFd4N2wgmnk7HMFH7i7B8EMpzp4zNFF
@@ -380,11 +380,13 @@ id,price,moonRank,solanartURL
 3217,0.74,3214,https://solanart.io/search/?token=5sTy9qLP48QdwdmF7VjqoeBsxw2s7ngo9SZdSCDMxdqr
 3266,3,2903,https://solanart.io/search/?token=Bi4dhJA1wRm2PBW3CHKue3iEAbVJiu4Vjjkv7vMh91Do
 3284,0.6,3338,https://solanart.io/search/?token=41qWY5jXsrCWrX75vdhm8ZjHFUb7bgWEj76CfjZpxWyt
-3305,0.75,3130,https://solanart.io/search/?token=4kPga4E5WjdTQ9T7Wgs1XbjWsYvxHHGxcwYfnNhSn8uX
+3291,0.69,2334,https://solanart.io/search/?token=GZcZV71daSfumxWA1kRVAcRFt4dVc56NwGVwsKJKeeeT
+3305,0.6,3130,https://solanart.io/search/?token=4kPga4E5WjdTQ9T7Wgs1XbjWsYvxHHGxcwYfnNhSn8uX
+3306,0.67,3607,https://solanart.io/search/?token=6kdHfN5XNU3CC7C4TwvusdvUAWKaQGV5qSXmEMSoWz9x
 3308,3.5,2204,https://solanart.io/search/?token=B9yQeh6edyJQev8BKh784i4W2uiBXdLUkspKAkUWQccU
 3317,4.6,3876,https://solanart.io/search/?token=EHbx3LuukaJJN5DRgPtryoUZEug7iGZ5x5ZvDfH8r91a
 3332,99.900002,917,https://solanart.io/search/?token=F8ajujD59oD7uWYuBY7H5WJsfADc52UcDZu1uPjLGoZD
-3333,0.79,2776,https://solanart.io/search/?token=4jxYuhXn4X6jwjyzqkKsjWx7GUL8cvZNBfS9S8zQTbHr
+3333,0.6,2776,https://solanart.io/search/?token=4jxYuhXn4X6jwjyzqkKsjWx7GUL8cvZNBfS9S8zQTbHr
 3345,2.5,3887,https://solanart.io/search/?token=5FW8noneU3RHtYQqnikMGuAkND2DZn1iygUZ136TMnM5
 3355,0.66,3916,https://solanart.io/search/?token=81pKcsznAt3UAoTGUJh57ATzUrd68LHynRpo46tzC48G
 3357,2,4349,https://solanart.io/search/?token=957QiD2yE2wkHxbjYqNNEcWncGwDtnFaZEdNq4LprFPN
@@ -408,6 +410,8 @@ id,price,moonRank,solanartURL
 3461,1,3562,https://solanart.io/search/?token=4PoQcoFNVvESeNhpMijYpRYJrbarFoEmR582LrN88FHM
 3462,1,3420,https://solanart.io/search/?token=HJLUHV2cm7zYUosF2sqGpQtSvQqgjw8LY8Z1AY8r5bhM
 3466,10,690,https://solanart.io/search/?token=4s4LbxjUKkVMpqFDtRnQHesWrDtJfxptftGZdvmAUjMN
+3468,0.75,4405,https://solanart.io/search/?token=9BwSX4FyZTk7eYbeEYKg2ReNtY1HF9oJnXKeL6HAJ6aF
+3470,3.5,676,https://solanart.io/search/?token=GzZ6Npu49aEudxo28EdqXJQsS1EhbkgUtHKT8TazidJ9
 3474,1.5,2449,https://solanart.io/search/?token=8FYHrkGCS932uQSdZJngCCHkztXZ4BypMkkucbY9hRrq
 3480,10.5,52,https://solanart.io/search/?token=DGDGe8rzTtXMz3o75jpYyaS9cTzPvSmedf7yj4SH7XyH
 3486,9,307,https://solanart.io/search/?token=8xABj2Cs7Nj2PBkFGKcbNp9GYpM2GYfmnw4eJojkCYwF
@@ -449,6 +453,7 @@ id,price,moonRank,solanartURL
 3661,1.09,4032,https://solanart.io/search/?token=B7YwDc99WCSg6se46SkrApyyPSvX4tkGotjKHbxMtpFn
 3664,0.999,3689,https://solanart.io/search/?token=HRerXuxej3uFmzx99S1bAujwT6cEiHfAUh2BZoSgZKU6
 3665,1.5,2550,https://solanart.io/search/?token=8peQMHTCwEURcRaAE2vCY35cNFD2wEVtyqNXfHnZ46YJ
+3673,7,2702,https://solanart.io/search/?token=CUCFSduu7cARUKXKjtbR5WjgqJU5Z2x3qX2qYZdTds1K
 3681,10000,2719,https://solanart.io/search/?token=4qW6pq88gojmh3fAbrDnzHQxTdLGeXocNjvyEE1ycXHK
 3682,1.1,3374,https://solanart.io/search/?token=3UVt8C2QTFTDADdNz5oMpuTBwP5CmwEax9GfxntQCKa5
 3683,3.5,404,https://solanart.io/search/?token=FjJTtRuNHbwvBP9Yhab4bD36FQSQg7FrSpnpAULvHyEt
@@ -499,6 +504,7 @@ id,price,moonRank,solanartURL
 3905,1.75,1278,https://solanart.io/search/?token=72ZsWJJZh7R8vnFpZGH5VekCnHaooDLLr9xrehxAZxTE
 3921,1.25,4189,https://solanart.io/search/?token=E5nvAc84FZFpbnAGYafaee9SMkFBZNw89mnNVsWLHjZU
 3929,3.8,461,https://solanart.io/search/?token=BJRvZS431Fg6Ai26M9QLn4ZHnuEt1UpaA1QaGCU5SAzD
+3932,2.5,2520,https://solanart.io/search/?token=EYpmb7WXGTqH5CrS6V7xSsJYo9jtByqibqivALANzahz
 3933,20,4057,https://solanart.io/search/?token=B8FyGnKy5mZiTtaAyzn7Sd8Vioy2RacAoNR5m5yt7prK
 3936,3.2,1716,https://solanart.io/search/?token=5BmxfhuSkynMiZPGaNFknnQz37JJVqNWYvsCz5nYWLt6
 3937,3.5,2266,https://solanart.io/search/?token=DmcmWth8u6skypE2aNcsXX2hzo4RasNQshj89N4iKFdC
@@ -541,7 +547,8 @@ id,price,moonRank,solanartURL
 4114,1,3509,https://solanart.io/search/?token=3KKjD3HRa1y2N6Seu1EmbnaM12cB5DVKjbabGAR8F7mV
 4115,3.26,2548,https://solanart.io/search/?token=AK9LR9Kkt7Jht2Jj8bmsSVSAFW6NngKh6pAip4LEEMht
 4118,2.5,102,https://solanart.io/search/?token=FpLgCghpkWaorzKT5dz5UecasRZrauCCnVTPQpPByGKP
-4120,0.7,3261,https://solanart.io/search/?token=3HD4JvH6kRkRodqApTRiuwKvU7k8PpYbQyYdgPSWhx9Z
+4120,0.6,3261,https://solanart.io/search/?token=3HD4JvH6kRkRodqApTRiuwKvU7k8PpYbQyYdgPSWhx9Z
+4121,1.5,774,https://solanart.io/search/?token=AUtTCVwvn7KCRavEYDJhbyi4AYjK5c7UZNtYnn9NwT3N
 4126,0.9,1236,https://solanart.io/search/?token=EhMhwsLYx2xLZZcoPV7LHidgv1zprxpctpD7T2cSjKhY
 4130,1,2991,https://solanart.io/search/?token=GdTpQ8ZGLbEWiauAfcjZ4yyHzEAX81AMyzM9u2xiRE2e
 4133,20,4208,https://solanart.io/search/?token=A1jKsYRcvab3aPi3RyArypFBnSXTb1Jxo1MBeNMivGPJ
@@ -551,13 +558,11 @@ id,price,moonRank,solanartURL
 4144,1.3,3458,https://solanart.io/search/?token=DDPYpDjtaFH5rBJ1N8skebs5vKURmVGobbTGt7L6RK7h
 4147,2,550,https://solanart.io/search/?token=HHbhnZtHLSWTYodpXaVwQtV8YttwHm8t4YZ8qqwDBnLB
 4150,10000,991,https://solanart.io/search/?token=BxzBwnN4vfzEyvqv1rDJPCJc27VoS9YM1dU3MfkaqyLS
-4151,0.7,980,https://solanart.io/search/?token=6e65cSbhXcayPTehgbempb1WgtiQqBjLStNTYn8dmn6F
 4168,4,2654,https://solanart.io/search/?token=9zcsTYxPRUACbt5fzggWgFcQzesmC62HAz7viP87j67o
 4174,2,4401,https://solanart.io/search/?token=8iZf2WdhH9tesfsWnqDPz63QUBEciZzZutVtu9hA3oWK
 4183,0.9,3604,https://solanart.io/search/?token=7KFuaNAP3EdNSsECNRA5dQLpqbKrTNt2ZiQqHaaCmW9M
 4190,10,3213,https://solanart.io/search/?token=Czrq65tfxjEhiaStUu8P1GVLsz5mk7PCYBJm2Xe4WxaE
 4196,100,2699,https://solanart.io/search/?token=2DF7x5V8aqqoKeGvPiDD9PY4oChgbL94ckQoCdxzAWon
-4199,0.59,1722,https://solanart.io/search/?token=HozZE82e2VpU7YMJjfSthJahpGGJ8mnz7FoNkfsnN2ev
 4200,10,1696,https://solanart.io/search/?token=9cwBfzWrizDSqUs6QaHYhxmxh2mokrk2JBY56LZQxnyo
 4215,50,4012,https://solanart.io/search/?token=96nyLws4RX74AEGe4d4hH7z9XbavfAcNnBaXMRCuMjXd
 4216,0.88,4301,https://solanart.io/search/?token=2VFgL89ihv9tuHG6EuNJXdekLYtb1FsxDp331JuCLRAE
@@ -586,11 +591,12 @@ id,price,moonRank,solanartURL
 4361,5,682,https://solanart.io/search/?token=4hRdtMyJa5RtLqY9v18z9CHpCAqU8cjuNP3gTffhRN1b
 4362,4.5,650,https://solanart.io/search/?token=5Z4pfiE1cF4bnuDR75Dy2npBFttWyAGcVHsT9iSrMBi8
 4364,0.88,2194,https://solanart.io/search/?token=8LA6RvaVt1aXxgKTMcD9jKFzHc9JqacL1BdGuDKjH92P
+4365,2,845,https://solanart.io/search/?token=GNsLDdxKCB1zT2gzQwooyK5QWkKMF6t1Ab4hoavVALwy
 4366,1.5,833,https://solanart.io/search/?token=7ouxjf8e1CKcwEujgmjFEoAGMwLA8ANvQC4WPYUMVBmy
 4367,0.56,4357,https://solanart.io/search/?token=BYU78AcYjVkzv3VzcEib2SHEQkuGyCP5Lvu8VUXewUpb
-4380,30,3750,https://solanart.io/search/?token=2r5mDc1U9URpqvRaKHnG5c6xNAH4dq1KH2q27LpAYYp1
+4380,100,3750,https://solanart.io/search/?token=2r5mDc1U9URpqvRaKHnG5c6xNAH4dq1KH2q27LpAYYp1
 4383,0.88,3091,https://solanart.io/search/?token=BYhudVtrjfK2drmMYyVNg1GB15BZZgBWi1CcQtm3qa13
-4389,6,549,https://solanart.io/search/?token=HQbKQfRgoFAMZoGThPJq2hzNqnCXw8dBF46PZUewJqar
+4389,1.8,549,https://solanart.io/search/?token=HQbKQfRgoFAMZoGThPJq2hzNqnCXw8dBF46PZUewJqar
 4392,6.69,1368,https://solanart.io/search/?token=C1Sj7VZ8ELe9EZxkQnyuGYDxn2nXreagA2vq8vtogTH
 4403,2.5,1638,https://solanart.io/search/?token=6giXr8xpzFpZk2qob8ieZwjZk99czvHCizb8iDmFf3H8
 4404,2,3503,https://solanart.io/search/?token=7t6fuKH19vEjXoJBjnkqYe2hhqueySFJ78bnfA8Ncxrh
