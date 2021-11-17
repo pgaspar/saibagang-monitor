@@ -42,7 +42,7 @@ id,price,moonRank,solanartURL
 452,3,1712,https://solanart.io/search/?token=8L59GBXVFnHHSRvgDxD9x9WcYYTfSDviGjLB5p6SQ6KV
 459,444,28,https://solanart.io/search/?token=CeSRa3KQNcBTqGBMARMS8wMqxcvktVb16A2XYXAPB2sh
 463,1,3690,https://solanart.io/search/?token=7DcPF4ePRj9vNGPKWXdpgBEMmRvwywri6ygvuwNwA94d
-489,1,3497,https://solanart.io/search/?token=GfTv2aBPy37MZzPQBmTVfh5RPRrDowHKecrLZgcy7PJV
+489,0.75,3497,https://solanart.io/search/?token=GfTv2aBPy37MZzPQBmTVfh5RPRrDowHKecrLZgcy7PJV
 509,1,2174,https://solanart.io/search/?token=DRSjXquHcrj2Z56fjDsEN2oesMxzodAfB6EardDDC4FR
 525,12,2029,https://solanart.io/search/?token=9JhJ3BEU982WCDri5Y9hm3stUg8hS2nZzeH3DK3wu5do
 536,0.9,2150,https://solanart.io/search/?token=JBgnJ1pqBSewUZUnjS1ZK7EVNBCStSTWyp9b8jwZDz7k
