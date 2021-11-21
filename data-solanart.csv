@@ -4,7 +4,7 @@ id,price,moonRank,solanartURL
 90,2,2539,https://solanart.io/search/?token=5hBezSLw15roE79eAVh3ym83wwNXpGXiVdcA4nJEjK8q
 105,1.8,2544,https://solanart.io/search/?token=F5yrCbBYfCzNE8FRrQpL77LJjnzxPVVyCF725A6tC1Av
 109,3,3202,https://solanart.io/search/?token=Fe6NHxyNS7bQkmoeLFxLyKtr3abKFbZeBxZiq9Kcgbdm
-115,1.1,4286,https://solanart.io/search/?token=FSieCQnFBLLCo6FcfM7ebCwxQJTZfvjkrnjhFNWuU8zF
+115,0.9,4286,https://solanart.io/search/?token=FSieCQnFBLLCo6FcfM7ebCwxQJTZfvjkrnjhFNWuU8zF
 117,3,3140,https://solanart.io/search/?token=3ZUqHg4yzEzt9r6N2bnBzojY9K6n7icrkFBVCQC9TuDB
 124,8.49,233,https://solanart.io/search/?token=Cx7qVc3FKjE3este8WXASWipgfBfLXTKRn1SmKZbB4ZV
 132,0.499,4126,https://solanart.io/search/?token=FzHz5gT5zcZj2KaS5tUGDQtSvEyzcADwaRFVhQ6YMnPQ
@@ -403,6 +403,7 @@ id,price,moonRank,solanartURL
 3435,0.8,1343,https://solanart.io/search/?token=6cWBBn7vTCV4976yGxDJGRY4N5QHFXuzgKmHBry9rB3e
 3436,29,119,https://solanart.io/search/?token=7sA8Qk4VWe6oaXBXoydrnjivQMf9MQTxokG6sL37hSDT
 3439,3,2336,https://solanart.io/search/?token=269yhvM8b6Bqu5h4Zmo9K8krP6Cw9HvP8Ras7PoyvdUk
+3450,4.5,446,https://solanart.io/search/?token=C8remsydZ6gX7RqGBCM1Nbu25qaMWmg6rEVPXtP31PpN
 3451,0.5,3974,https://solanart.io/search/?token=FXEWxmDk7EGrTYmYbHjyuSAnjdMEozwd6LgEe3Z58atP
 3453,0.5,906,https://solanart.io/search/?token=C1cS2iuEXD6Jqnv8gE2spKFf9yrLopbL5CqUGjzXGDjA
 3454,0.5,1073,https://solanart.io/search/?token=7VVoqVkhgz9kUrF1bjJWPukeVpXWEi78WrHK5ZfeQk6q
