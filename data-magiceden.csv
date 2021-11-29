@@ -129,6 +129,7 @@ id,price,moonRank,meURL
 2459,1,3836,https://magiceden.io/item-details/GpEu7xf65rxw261QDszoypuAhsnFPhJDv1cqmcABx1Qh
 2461,0.9,3809,https://magiceden.io/item-details/BtUM84xdaj6Upk1SL2YeEyfESRTwHbbHFJhXeDnZVix7
 2462,2,2442,https://magiceden.io/item-details/95r76nScqjkmdRqnjQPXUaKu8Bc6fbM6wKkdz1HvA2mF
+2469,0.55,3033,https://magiceden.io/item-details/MLDXZHgXzSirPpEgZV1Nars9urNvRoydmmGAqVEBitk
 2486,0.88,2223,https://magiceden.io/item-details/53ZAaKL1rynVMAMPytVCNkjMRXtbsah8L2zjDTehokZE
 2532,2,3258,https://magiceden.io/item-details/RLLuVm6wxKkasUD8yR8WnwF4q1KgFWEyRuCGAbFasPv
 2533,3,541,https://magiceden.io/item-details/5LkcCtvssUB5NE7aiUQ7yaS7Ej2uuE9KYQ2v3ZY6b9aD
@@ -159,7 +160,6 @@ id,price,moonRank,meURL
 2757,1.23,3030,https://magiceden.io/item-details/ngE1SfqL1jzBUNpadu7M6EVkRMhtVV7F2B6EV5x64fg
 2797,5,3643,https://magiceden.io/item-details/AchPm8qiupzgDJ9b4HMspkfzFimVhXeXirMPL7ij8aaj
 2808,3,281,https://magiceden.io/item-details/7YP9WRns6MTTha5A6Qnd4AegThm6QooxGnnWusLhdaqB
-2810,29,1,https://magiceden.io/item-details/HhR4dfsxjqnpcbqap5UkLuuJjtbgeeHT1eEGmsktTiAW
 2841,2.2,3675,https://magiceden.io/item-details/BCoBK6y3Xak5y8r2sfBADoURA9wy2koVhR1Y8dQ7L1ph
 2846,20,2424,https://magiceden.io/item-details/HcQ8gXtZ6985JydwHp791TqAc2t92qZTPcTKNA2KHhmy
 2882,2,3387,https://magiceden.io/item-details/E3DadG3ztzZnanXT2oveiFdy9erkDw674FB1UNi337Ao
@@ -268,7 +268,6 @@ id,price,moonRank,meURL
 3930,1.5,3229,https://magiceden.io/item-details/FptRLdELJtSxBx8ScZtRNrtUNb2TAmNRd3EJ2b5ZqHnX
 3944,0.38,2016,https://magiceden.io/item-details/BfS426woBSx6bzMm5VCnR1iGfy5mCJEEj9k1Ge4khJSa
 3946,0.339,3963,https://magiceden.io/item-details/JKVh8Q1NYKBp7yY9xvxgiUMPJYJHtXPM18XKDEhSxWq
-3953,0.65,2044,https://magiceden.io/item-details/8HuimarHNjYXe8jDj7zH5Uveavb2uYa1i5SqtZ6Rfrpw
 3957,0.5,2954,https://magiceden.io/item-details/XiWVVyuVYTRoJ9EKL7tsdQNWnTqNWZPAut6AFvQP4if
 3961,1,3726,https://magiceden.io/item-details/68XwMZSKZ9ZA4KyNu6KToxuEGrK8DThu3XZYJbTxm7Fd
 3981,1.5,2670,https://magiceden.io/item-details/HyqSyWR1xE9AXysHe8Qh9gjr4gBxH399NJDLGUfShDWm
