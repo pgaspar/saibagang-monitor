@@ -12,7 +12,7 @@ id,price,moonRank,solanartURL
 194,0.41,4262,https://solanart.io/search/?token=FyEEtybJWex8dv5gX1qHJYHxUv26x48GNUMSTCebrSrz
 195,0.95,1777,https://solanart.io/search/?token=EMqT7sknZ18ZXrmbqECZ4hJYSTsSyoedZo3QuWYnGnpr
 199,8,1753,https://solanart.io/search/?token=8NHvgMHCsh5owtyWiELJnnoARiYBYYj5v4XCWFcKvMM8
-200,5,350,https://solanart.io/search/?token=BbFK4L9H1gEuVYyPFjojj6p6YXda4oSFZ96LWPL8GGAW
+200,0.85,350,https://solanart.io/search/?token=BbFK4L9H1gEuVYyPFjojj6p6YXda4oSFZ96LWPL8GGAW
 233,1,2363,https://solanart.io/search/?token=37q9tpLCyzFeX4LMXTRyEPEyA91SmdMJVMSBzxo2Zutf
 239,13.2,961,https://solanart.io/search/?token=8gkin2hdbTuY4UCAKmdk21YXRWSuMbwQMXrGs6YSLEZS
 265,4.22,669,https://solanart.io/search/?token=EZF7EbaaHQ8d8rToA6zWy1eqHyT4c934ZSnXPx83hHeC
@@ -193,6 +193,7 @@ id,price,moonRank,solanartURL
 1918,1,623,https://solanart.io/search/?token=H9tJjRQgiobHxdhVNRxNvqdfz7HV6r94W17LsJoqBgnm
 1961,10.875,2073,https://solanart.io/search/?token=C7Crxa92BMBGUhg8sojqY2EjPf38A3dWNwLAXnupp51f
 1962,6,300,https://solanart.io/search/?token=3Hu6Nh146bKeJy7udF5ie7pz54yx4GpLLisnpFu2fB3k
+2010,1.02,2951,https://solanart.io/search/?token=71CC9BqNzdThkRgmav8rY5QsmhuQ7NDVBsZ3WVoRc1eV
 2015,0.43,3331,https://solanart.io/search/?token=Dz6qxCE8RzcQQVyuwe6KhdWphVwziJ1p6Wwx9yHpV3Zn
 2021,1,4156,https://solanart.io/search/?token=6sKFSMfXjfHW8yHWKCL7Utnu7Wihf2JAuEDmS3RcMq9a
 2024,50,2261,https://solanart.io/search/?token=72ioJWgzLr4BUmkWECTSxRzwpd9YqVC4QRUqtu81k1Rw
