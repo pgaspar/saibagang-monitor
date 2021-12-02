@@ -22,6 +22,7 @@ id,price,moonRank,meURL
 330,5,205,https://magiceden.io/item-details/4aLpfH9gDvQAr1p9d7JtX9uuFXwo9AUdv2whFsYTFaCs
 367,4,964,https://magiceden.io/item-details/68tAzMrhVZCsUkpDqGsJ6StNdguQG2ce86nhgmKarjfz
 397,0.96,1890,https://magiceden.io/item-details/8tkrU73Y3ooTMN7r4MtA7R26rKguLpUoZBexTqGNBvaX
+399,2.5,458,https://magiceden.io/item-details/5dhKVph8FSP9nrwfFZDTkChLBo2GR57nJWzVjzvhEBdQ
 404,0.55,1899,https://magiceden.io/item-details/416g7q3yLndPsEKbDXVtMwPz6f6BSQ37kZFq8A2x8bFv
 409,2,2157,https://magiceden.io/item-details/3bemeSV1GdwS2sJDTWzSv8FnAJAThzSwz9hHmjBezUk2
 417,1.99,269,https://magiceden.io/item-details/2uH7oY8QwkiR7XCKHSAyHNmGotZGJj1fuem22aqyZq2a
@@ -179,7 +180,6 @@ id,price,moonRank,meURL
 2841,2.2,3675,https://magiceden.io/item-details/BCoBK6y3Xak5y8r2sfBADoURA9wy2koVhR1Y8dQ7L1ph
 2846,20,2424,https://magiceden.io/item-details/HcQ8gXtZ6985JydwHp791TqAc2t92qZTPcTKNA2KHhmy
 2882,2,3387,https://magiceden.io/item-details/E3DadG3ztzZnanXT2oveiFdy9erkDw674FB1UNi337Ao
-2892,10,693,https://magiceden.io/item-details/AASZSAV2hYymGFVNia164hcrdBvKFaCBcLLttV6wh5jd
 2919,3,3041,https://magiceden.io/item-details/GAZSXJyiWaa9QecwFqRQ9tEFofkcBvbCg3NiuUCShPVX
 2953,1.5,2896,https://magiceden.io/item-details/DfYqBvWPiaSR1rwPpqxCqm1uX5zakbxnet1kAJNWPciG
 2956,0.94,3161,https://magiceden.io/item-details/6zujnhzKGqfHDd2pFN27V4k3oDBedzLMfjaRQUrm53rc
@@ -235,7 +235,6 @@ id,price,moonRank,meURL
 3431,0.33,4344,https://magiceden.io/item-details/7pcAuVrFEEPXVJcWDc7j5sowfttfQwhqVcEdi9XMHVrz
 3443,0.95,3125,https://magiceden.io/item-details/7qeX9gB9Y51U278URmhNAf6J9aCSv2PScE2aARxcn1f5
 3450,1,446,https://magiceden.io/item-details/C8remsydZ6gX7RqGBCM1Nbu25qaMWmg6rEVPXtP31PpN
-3452,1.35,877,https://magiceden.io/item-details/HPKFwgFbCdre5cJdSeEmchvmzL5jzjVkxq9uNYVkdiYD
 3469,0.4,3061,https://magiceden.io/item-details/5NuuPSEyF6uPCktXwUmfz4oRD21siGgxN4u6HZ7j8eVG
 3475,2,93,https://magiceden.io/item-details/BnxiJRrmuWGWhcFPbGwKSqz2Lx6FbSW8Mds3ygAd2c9Y
 3502,0.55,679,https://magiceden.io/item-details/B7HQAA8i7pSWiuvoPuwzUTznxKCq7aCv4i7YhBDnpUkp
