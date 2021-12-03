@@ -13,7 +13,6 @@ id,price,moonRank,meURL
 207,0.9,1168,https://magiceden.io/item-details/AL2wh5s1S1YccQLKUwvKycYUo3iqvD3aUywNzDudFbPB
 214,1.1,4201,https://magiceden.io/item-details/3jnJ5h1Hr2h1FVVRysoq2C6SvZAwsDoBE1sj1Lk8oH3a
 218,1,1687,https://magiceden.io/item-details/8FbxyNnx42BWLQNd6kF3mHrfjSs9YLpVM5uVWTsWbToH
-254,0.75,939,https://magiceden.io/item-details/DW1rCG65Z2VBdWz1AoWLUTCaa3s5oZyQbusSxNjB4Pyo
 262,3,1035,https://magiceden.io/item-details/Hg3k1w5DSGP7zLBj8mitNvEsgCgXSNwExj5rDETowcQm
 278,2.49,22,https://magiceden.io/item-details/3SqSZatfvo63LNHymCDYixPb63sk32kFnt6dwprC91p7
 303,4,334,https://magiceden.io/item-details/BUhgqNqy5it9JRAZSMdvA9UHF7rY674pkDtr5hsjg94G
@@ -49,6 +48,7 @@ id,price,moonRank,meURL
 807,1.5,1285,https://magiceden.io/item-details/5e9j15af9eh7pqJrQZoq4HurACBKtw9PJL2J63GB4srE
 808,0.99,2436,https://magiceden.io/item-details/Aynj98fSwbSghynz2hsjC1RaW9YHwafXrW6fTf6R231H
 838,1.7,408,https://magiceden.io/item-details/7VPCyoJcdPebd3oMuYA52db2rrLi7VfPA9EuVCi83seA
+852,1,1644,https://magiceden.io/item-details/AkfYsoL14qPEgEqr8DhwJuVmmEQEYmb6A3JpZxkkijxS
 940,0.4,3013,https://magiceden.io/item-details/EJ69AVatxjLHkYvKLkYocFRRHryvGHjQ2QqbSa3zgFu6
 945,5,1152,https://magiceden.io/item-details/32LeTX15YxjgNXAbQaNdWU9LPyzsoMHM8uoVeN2rFmMs
 954,2.5,246,https://magiceden.io/item-details/2Rs4L5BJRVyTuPhS3a45pNiPHi99Nh1n9jAp8PDrxW7j
@@ -193,6 +193,7 @@ id,price,moonRank,meURL
 2997,11,2384,https://magiceden.io/item-details/XzCc3mmYbjE9WURUkwTZv1K8AfXfq24sk9UzNTo856Y
 3002,0.32,2635,https://magiceden.io/item-details/121pdCbmaQ5YhVJKm2eAefYrqgyXFToSRfCUgqCFMYUs
 3011,1,2791,https://magiceden.io/item-details/3XmMCqtiYcuvZbUVj3VAdCVh14Z6o5PCmoipKxmDu8TS
+3012,1,1448,https://magiceden.io/item-details/EPawxGuEf77PzSyJo4y9UH1k5eRgoa8TSj2YPXUWUcwZ
 3027,2,2723,https://magiceden.io/item-details/HUCc9VMi9Yq3eRZ38bYbDVgph5QTEn3f8YkbroRqJ9fR
 3038,1.2,1581,https://magiceden.io/item-details/5J4siAy5MVSQcAy5DfyX7mWNSgJ82hB7rHURuceFgUJi
 3039,1.3,3488,https://magiceden.io/item-details/AiEWmGexmAhnuL6bJGpM3fME3C621EZRh3KuNJH8hkKa
