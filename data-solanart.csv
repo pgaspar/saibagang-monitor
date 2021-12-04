@@ -121,6 +121,7 @@ id,price,moonRank,solanartURL
 1397,2,2994,https://solanart.io/search/?token=BykmZkBtsn7DLSFBP2ixvQd2bbsAFKYLh1CfVBHNHZth
 1406,1,4174,https://solanart.io/search/?token=HUcbbVCBsLgfJ8yjwKGV4JXHeRvL5GXhRd1VTtK4rj2y
 1431,1.3,2393,https://solanart.io/search/?token=5xs5eLeHVLnRPCsgc6Cn3KmRXBMXT8JHKrKVtcET6fiq
+1446,50,2,https://solanart.io/search/?token=E8xKW6agcqgFHkf7Ub2Kcso3oMy9n9Qbg1UgZc7ukfM5
 1455,2.5,929,https://solanart.io/search/?token=HrsinUTfJCotZqjFxeLJkuXGPPxwqsChz7c4UXGHHDPN
 1457,2.5,2530,https://solanart.io/search/?token=5i5SuisxvX2cY4XGQkYn41KiDBkZNU7vSRBwiRVFUPbZ
 1478,1.8,2755,https://solanart.io/search/?token=HUTWzj66vp37yny9LA3TodLy7F4ZmKTFRrS7SWAW3DBX
@@ -316,7 +317,6 @@ id,price,moonRank,solanartURL
 2971,9.95,2096,https://solanart.io/search/?token=EXtxXPeJx81PSy2CdQ2TV84mvHDUwbTrne9zrNmM5XB5
 2983,0.5,1660,https://solanart.io/search/?token=DSwJ3fKEiVmZJXsHhkEKFqjk5YpJVANDqmqFTDTSyZp6
 2989,444,1319,https://solanart.io/search/?token=GA4rCwjAzhCqz8ZeJgmtYrdBzwJpTMY5bfYvgHdZUpid
-3002,0.28,2635,https://solanart.io/search/?token=121pdCbmaQ5YhVJKm2eAefYrqgyXFToSRfCUgqCFMYUs
 3009,50,2253,https://solanart.io/search/?token=85retwodbhKcgjz64Q2dim4frttjusfbyK4sNha3PCoG
 3013,55000,2324,https://solanart.io/search/?token=8vhbdDtSc7kKMxPGfVAu8iATKiyHrfAHogSR8hWfBTrx
 3015,0.4,1109,https://solanart.io/search/?token=4QBgTzK9aWq1bAw6TzdqqKaaY63wJoWcHLNDTFymHA68
@@ -405,6 +405,7 @@ id,price,moonRank,solanartURL
 3516,1,3516,https://solanart.io/search/?token=8Td9tu1bB6ca1Wm6Cr5F5ks2eKGcrd5VFidUYGxuTCSM
 3522,1,2110,https://solanart.io/search/?token=FfXL7cZwXAuVheRYVkCw6B71pDbQDBhnzt7NMpjHuEh8
 3525,1,3762,https://solanart.io/search/?token=BcsUxzmTvcESaBaf1TpB2mHkqzZUebzVUwaE5pynEZFJ
+3531,2,501,https://solanart.io/search/?token=BCF2fWXACLZLbXvaNuSSQnsGG7ZBCoyErkrrbSZZ78wD
 3535,2,2572,https://solanart.io/search/?token=GK6Quoid8TWMpH4vfDae4Ya6jiV6q3RjxBtGMD5n3J6C
 3549,15,1568,https://solanart.io/search/?token=9184MLnWVe6HoK8KmodCrR7jY9mToZh28F5bM6Qx1H8h
 3550,24,1019,https://solanart.io/search/?token=2wZyowwmheFzxs7hLd1EqEePF33rHyo8wsazB8zr6EhJ
