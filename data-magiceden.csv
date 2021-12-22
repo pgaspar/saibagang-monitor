@@ -46,6 +46,7 @@ id,price,moonRank,meURL
 714,10,267,https://magiceden.io/item-details/F9jd2QmYeAxSUpTnCQZNydeUaTbyNiUHE2eFka3xKNY9
 729,1,154,https://magiceden.io/item-details/D2p4W9CCYZRSV8ZX5cZSqZaCGLCrAizobfdQVz8oH2H8
 743,2,953,https://magiceden.io/item-details/Ct3DLq9imeWML676viYQ8SpuvvoUak8J6MxAXZMmVR9B
+765,0.8,1133,https://magiceden.io/item-details/2M89M3FmEFegGwz1VJnigvrdbS52EAk6Cnu6BKZRPwTq
 777,0.99,510,https://magiceden.io/item-details/KyhetZJFrdrvqHSJXwrmGkUMP5YxRfbwmTpZ5rAtzfZ
 807,1.5,1285,https://magiceden.io/item-details/5e9j15af9eh7pqJrQZoq4HurACBKtw9PJL2J63GB4srE
 808,0.99,2436,https://magiceden.io/item-details/Aynj98fSwbSghynz2hsjC1RaW9YHwafXrW6fTf6R231H
@@ -146,7 +147,6 @@ id,price,moonRank,meURL
 2326,5,60,https://magiceden.io/item-details/9cqU1W5NrFZqzwZ4Q6Rn1vdSFtgP15NsQV2PUESh67ia
 2327,0.5,3685,https://magiceden.io/item-details/HRmBNFGpFCTLGLDBkQyHjqbipM3Mgm5X3CTCowi97gtL
 2328,1,1746,https://magiceden.io/item-details/BnH6mjSgYejNAk9aUXvdGKmMrpsESbvoXUtxgYJnirAs
-2346,0.15,2590,https://magiceden.io/item-details/CRAct8ark77srhgMoaoRo4Fj4ogjkRvukoHUrFaTQgKo
 2354,0.99,739,https://magiceden.io/item-details/25VZ5qAV3tcHaTT3kKUmqUNvbiogfp7fdS5Vb6miN1mv
 2363,1,1987,https://magiceden.io/item-details/7AyoeHAPr5AKUdZdA8Vk1KLoK2mMFfZTTgqA1hfsFFw2
 2366,1.25,3269,https://magiceden.io/item-details/FsSQjnAnTyTf3g1cESkGEup14k7qXkoX2DajvHNh6Hip
@@ -160,7 +160,6 @@ id,price,moonRank,meURL
 2582,0.3,1506,https://magiceden.io/item-details/AQcTFRnNMwN2tapnsJj5sfY7vXRvDGHVs5Q3WaCryrrt
 2583,2.7,167,https://magiceden.io/item-details/5cRuJzXNBMXuVMBjuUnD94TSFHzuHv7bn65eWogETm8M
 2584,0.79,487,https://magiceden.io/item-details/3i5BPyjY6v65TAPFxifzedn5yDbCxSs4gPVuBNx6j6zb
-2587,0.15,2948,https://magiceden.io/item-details/4uc4i75rc2gszMzqiGMpqfffFj6sEYiwAyohp6wT1HXE
 2593,0.666,3744,https://magiceden.io/item-details/wpcGEviVRVTZGXnVkA9pdFJ3GrdM6XgbTMNJbYj9iK5
 2601,0.88,2997,https://magiceden.io/item-details/GL2ZVrm27DuaLU7nJQEKbShumezwEX865ewVH5Sy5GPT
 2620,2,1363,https://magiceden.io/item-details/GY2axuX2TZo5wbiwybCNLjgMqPXdTd8xyBk3DfDMDGqm
