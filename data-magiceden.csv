@@ -9,7 +9,6 @@ id,price,moonRank,meURL
 126,0.49,1802,https://magiceden.io/item-details/8hgmFcuTE5D1cCgSFu9Pzu5BuVwMzN6kspBK2xRatC5i
 150,0.46,2730,https://magiceden.io/item-details/BNswBctsmfFtGQ3KHZTsoRpgssXhoEPtJ2ddfdKZaM4g
 160,3,3552,https://magiceden.io/item-details/FXTNiosNwqFbqbKswfFVvChQo4fFdtbjDoEFVU2WaFmV
-200,0.5,350,https://magiceden.io/item-details/BbFK4L9H1gEuVYyPFjojj6p6YXda4oSFZ96LWPL8GGAW
 210,2,508,https://magiceden.io/item-details/AYzVAud9VH9SaTmTpe5YsumbmYuYBv5PZYyHa7Zkx77M
 214,0.348,4201,https://magiceden.io/item-details/3jnJ5h1Hr2h1FVVRysoq2C6SvZAwsDoBE1sj1Lk8oH3a
 218,1,1687,https://magiceden.io/item-details/8FbxyNnx42BWLQNd6kF3mHrfjSs9YLpVM5uVWTsWbToH
@@ -17,6 +16,7 @@ id,price,moonRank,meURL
 262,1.2,1035,https://magiceden.io/item-details/Hg3k1w5DSGP7zLBj8mitNvEsgCgXSNwExj5rDETowcQm
 303,4,334,https://magiceden.io/item-details/BUhgqNqy5it9JRAZSMdvA9UHF7rY674pkDtr5hsjg94G
 309,0.96,2158,https://magiceden.io/item-details/8mrnLiDstdTaBe9otoHAJQRLe87Yjc22W7kjfwtzcqWn
+317,0.2,2359,https://magiceden.io/item-details/8MpZ8ct67fhskoQX1k8SUHYrBpZYnmu1N1HynrVRz6ty
 330,5,205,https://magiceden.io/item-details/4aLpfH9gDvQAr1p9d7JtX9uuFXwo9AUdv2whFsYTFaCs
 358,0.33,4127,https://magiceden.io/item-details/93YwonM83gxS1YQQtRi5JWoRXUAQ4JcrVLVMmZwUsoxR
 360,1,2179,https://magiceden.io/item-details/F8YoBNHsGzPoXb3pogMxWn5p4K52cRiA3zLJZqdon2yF
@@ -38,7 +38,6 @@ id,price,moonRank,meURL
 475,6.5,284,https://magiceden.io/item-details/5aVN43u8AJXYcF3URd2E3b38Hhe7fkviAJuVa6NFhi51
 497,0.3,3326,https://magiceden.io/item-details/FW7HrSvhxFpJhavAU8aHCyW17Hs1RAYs26ywYKzZgPF1
 509,1,2174,https://magiceden.io/item-details/DRSjXquHcrj2Z56fjDsEN2oesMxzodAfB6EardDDC4FR
-511,0.19,2622,https://magiceden.io/item-details/FQhuxFPfSwDGJoNpWGEvwmYxYM3RPWjchHEt6swwE1G7
 512,1,3253,https://magiceden.io/item-details/48xgJKbsStWijCbgxGvQV8dR9aCDharmhZaFr4r47XD9
 522,7,1131,https://magiceden.io/item-details/DEb6JM7C2UcC2HWb3CyHcnsUgUX3u3VgTSmdfFr4Bux3
 545,0.8,3303,https://magiceden.io/item-details/8KoUrZtvz7TxpzBBrXQEE2CBVuv1yL8rV2GijWYPBLrd
