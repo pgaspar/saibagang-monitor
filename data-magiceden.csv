@@ -25,7 +25,6 @@ id,price,moonRank,meURL
 397,0.96,1890,https://magiceden.io/item-details/8tkrU73Y3ooTMN7r4MtA7R26rKguLpUoZBexTqGNBvaX
 399,1.6,458,https://magiceden.io/item-details/5dhKVph8FSP9nrwfFZDTkChLBo2GR57nJWzVjzvhEBdQ
 402,0.3,3139,https://magiceden.io/item-details/82zwu9Tg74HvUQQdWk4HQR9JPzZUYhVsqdy6XL2nCd8H
-403,0.17,2989,https://magiceden.io/item-details/CubZSpvAxw6sBpZHZhr3ywtxXV1f5QA34WQA3ps1Ciz6
 417,1.99,269,https://magiceden.io/item-details/2uH7oY8QwkiR7XCKHSAyHNmGotZGJj1fuem22aqyZq2a
 431,0.96,2104,https://magiceden.io/item-details/2MjTB3u82DEu42gZLdtfwjhNs1xmuUNenhRb3DYztb26
 438,1.77,951,https://magiceden.io/item-details/6dP98h3e5Kec2N6z4orfKrmud3CgQfM1B9Cb3nASCiiX
@@ -125,7 +124,6 @@ id,price,moonRank,meURL
 1576,1.33,1298,https://magiceden.io/item-details/4HhhfeNi4XzmZeBdezVQhBNSFr6GDZ5gZQTnJZAKNqHN
 1605,0.5,2499,https://magiceden.io/item-details/BSdk3rSbghgB1YGmwS2w3gTs6j2Zg6b922a9SfotVz1p
 1608,0.25,3457,https://magiceden.io/item-details/Gwwn1PRLA96FKb4gQ45frDbjxHRLRFxRmBev3EFJd6YV
-1630,0.17,3659,https://magiceden.io/item-details/J1NCcsC6pjaiadqdLmbitJ51TVwDnQkSfxBvr6LuSQ9f
 1631,5,2066,https://magiceden.io/item-details/2LKZVntZBWqfYVUWBgvEPgQj7rbp8daaXJgF5KLtP6ZM
 1639,0.89,1997,https://magiceden.io/item-details/7AtW9ns7AgjxxsX7ttiSPQYSTrUj8zdyyThbQ6CbKVYe
 1640,0.5,2888,https://magiceden.io/item-details/5MZFtef3VDY3qmJM6uCL6qP2mmhHBCvoHb8wYJvLQfoM
@@ -232,6 +230,7 @@ id,price,moonRank,meURL
 3011,1,2791,https://magiceden.io/item-details/3XmMCqtiYcuvZbUVj3VAdCVh14Z6o5PCmoipKxmDu8TS
 3035,0.27,1739,https://magiceden.io/item-details/ABvyyzwnA49Y6LszEeCgiXbmnoepPQFMHC3TA5U811ND
 3048,0.33,1415,https://magiceden.io/item-details/DcWFyX3MsuMuz7AEubT9uEX2SNbsUmZRRoj99xYrLcyG
+3072,0.21,1358,https://magiceden.io/item-details/E6vSvxD2TsLvTkyMe55TXubhhT7GSTKHrWe4yfC4N6PP
 3117,10,120,https://magiceden.io/item-details/3xUg7AY47kRqbBC3Vh7RYn67fSgXGPU5sRvWZE6UnMVE
 3142,1.5,850,https://magiceden.io/item-details/2xPP8tyx2HVZYEu73wE7e1zPPAwfYnCjgxx5fWf9f6pZ
 3160,0.5,3549,https://magiceden.io/item-details/6TLek8ZYmTbfvJHsML8v7s6weAXAykQPGC9f6FCYDn4c
